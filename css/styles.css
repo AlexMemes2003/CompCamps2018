@@ -1,0 +1,61 @@
+.center {
+  display: block;
+  margin: 0 auto;
+  text-align: center;
+}
+
+body {
+  margin: 0;
+}
+
+.img {
+  border-radius: 50%;
+  margin-top: 100px;
+  width: 300px;
+}
+
+.text {
+  color: #1366E8;
+  font-family: 'Dosis', sans-serif;
+}
+
+.whitetext {
+  color: #1366E8;
+}
+
+.nav {
+  background-color: #39B4FF;
+  display: inline-block;
+  padding-bottom: 2px;
+  padding-top: 2px;
+  text-align: center;
+  width: 100%;
+}
+
+.alexsface {
+  animation-delay: 0.5s;
+  -webkit-animation-delay: 0.5s;
+  animation-name: alexface;
+  -webkit-animation-name: alexface;
+}
+
+.nav-item {
+  display: inline;
+  font-size: 20px;
+
+}
+
+.nav-link {
+  color: black;
+  padding-left: 10%;
+  padding-right: 10%;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  color: #2C40FF;
+}
+
+.webpage {
+  background-color: #F6F6F6;
+}
